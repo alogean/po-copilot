@@ -1,0 +1,63 @@
+{
+  "app": {
+    "name": "PO Buddy",
+    "managed_project": "AI Buddy",
+    "po_buddy_schema_version": "0.1.0"
+  },
+  "github": {
+    "provider": "github",
+    "owner": "alogean",
+    "repo": "po_buddy",
+    "default_branch": "main",
+    "versioned_files": [
+      "po_buddy_config.json",
+      "po_buddy_project_content.json"
+    ]
+  },
+  "clickup": {
+    "workspace_id": "9012122342",
+    "space": {
+      "name": "AI Buddy Factory",
+      "id": "90123394239"
+    },
+    "mappings": {
+      "backlog_folder_name": "Backlog",
+      "backlog_list_ids": [
+        "901210300209",
+        "901210530382",
+        "901210530385",
+        "901210530532",
+        "901210530535",
+        "901210530393",
+        "901210530635",
+        "901210530650",
+        "901210530373",
+        "901211484594",
+        "901210530547"
+      ],
+      "sprints_folder_name": "Sprints",
+      "sprint_list_ids": [],
+      "ceremonies_folder_name": "Ceremonies",
+      "notes_list_ids": []
+    }
+  },
+  "delivery_model": {
+    "sprint_length_days": 21,
+    "estimation_unit": "hours",
+    "budget_unit": "hours",
+    "sprint_start_anchor": {
+      "timezone": "Europe/Zurich",
+      "start_date": null
+    }
+  },
+  "sync": {
+    "mode": "on_demand",
+    "commit_on_change": true,
+    "min_change_to_commit": "non_empty_diff",
+    "generated_artifacts": {
+      "reports_dir": "reports"
+    }
+  }
+}
+
+

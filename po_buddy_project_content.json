@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "project_key": "AI_BUDDY",
+    "project_name": "AI Buddy",
+    "po_buddy_version": "0.1.0",
+    "last_synced_at": null,
+    "sources": {
+      "clickup": {
+        "workspace_id": "9012122342",
+        "space_id": "90123394239",
+        "folder_names": [
+          "Backlog",
+          "Sprints",
+          "Ceremonies"
+        ],
+        "list_ids": [
+          "901210300209",
+          "901210530382",
+          "901210530385",
+          "901210530532",
+          "901210530535",
+          "901210530393",
+          "901210530635",
+          "901210530650",
+          "901210530373",
+          "901211484594",
+          "901210530547"
+        ]
+      },
+      "github": {
+        "repo": "alogean/po_buddy",
+        "branch": "main"
+      }
+    }
+  },
+  "project_charter": {
+    "vision": "",
+    "objectives": [],
+    "non_goals": [],
+    "success_metrics": [],
+    "scope_notes": "",
+    "assumptions": [],
+    "constraints": []
+  },
+  "organization": {
+    "stakeholders": [],
+    "team": {
+      "roles": [
+        {
+          "role": "TechLead",
+          "members": [
+            {
+              "person_id": "P-ROLAND",
+              "name": "Roland",
+              "clickup_user_id": null,
+              "capacity": {
+                "hours_per_week": 0,
+                "availability_notes": ""
+              }
+            }
+          ]
+        },
+        {
+          "role": "Engineer",
+          "members": [
+            {
+              "person_id": "P-MAX",
+              "name": "Max",
+              "clickup_user_id": null,
+              "capacity": { "hours_per_week": 0, "availability_notes": "" }
+            },
+            {
+              "person_id": "P-PATRICK",
+              "name": "Patrick",
+              "clickup_user_id": null,
+              "capacity": { "hours_per_week": 0, "availability_notes": "" }
+            },
+            {
+              "person_id": "P-LENA",
+              "name": "Lena",
+              "clickup_user_id": null,
+              "capacity": { "hours_per_week": 0, "availability_notes": "" }
+            },
+            {
+              "person_id": "P-ALEX",
+              "name": "Alex",
+              "clickup_user_id": null,
+              "capacity": { "hours_per_week": 0, "availability_notes": "" }
+            },
+            {
+              "person_id": "P-MICHAEL",
+              "name": "Michael",
+              "clickup_user_id": null,
+              "capacity": { "hours_per_week": 0, "availability_notes": "" }
+            },
+            {
+              "person_id": "P-ORIANE",
+              "name": "Oriane",
+              "clickup_user_id": null,
+              "capacity": { "hours_per_week": 0, "availability_notes": "" }
+            },
+            {
+              "person_id": "P-JOHANNA",
+              "name": "Johanna",
+              "clickup_user_id": null,
+              "capacity": { "hours_per_week": 0, "availability_notes": "" }
+            }
+          ]
+        }
+      ],
+      "working_agreements": {
+        "definition_of_ready": [],
+        "definition_of_done": [],
+        "ceremonies": [
+          { "name": "Standup", "cadence": "daily", "notes": "" },
+          { "name": "Planning", "cadence": "every_3_weeks", "notes": "" },
+          { "name": "Review", "cadence": "every_3_weeks", "notes": "" },
+          { "name": "Retro", "cadence": "every_3_weeks", "notes": "" }
+        ]
+      }
+    }
+  },
+  "delivery": {
+    "roadmap": { "horizons": [] },
+    "backlog": { "product_goals": [], "epics": [], "items": [] },
+    "sprints": []
+  },
+  "quality": {
+    "test_strategy": {
+      "levels": ["unit", "integration", "e2e"],
+      "tools": [],
+      "entry_exit_criteria": { "release_candidate": [], "production_release": [] }
+    },
+    "quality_signals": { "defects": [] },
+    "release_readiness": { "checklists": [] }
+  },
+  "budget": {
+    "unit": "hours",
+    "baseline": { "approved_hours": 0, "notes": "" },
+    "tracking": {
+      "time_entries": [],
+      "burn": { "to_date_hours": 0, "forecast_total_hours": 0, "variance_hours": 0 }
+    }
+  },
+  "risks_and_dependencies": { "risks": [], "dependencies": [] },
+  "communication": { "cadences": [], "decision_log": [], "weekly_updates": [] },
+  "clickup_mirror": {
+    "lists": [],
+    "tasks": [],
+    "comments": [],
+    "time_entries": []
+  },
+  "audit": { "json_change_log": [] }
+}
+
+
