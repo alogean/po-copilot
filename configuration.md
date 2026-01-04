@@ -92,48 +92,43 @@ Deliver a trusted AI Buddy for knowledge access and study planning.
         - Bug burn-down.
     - Mid-Feb 2026: WWF 2.0 Deployment.
     - March 2026+: Expansion to new programs via Onboarding Playbook.
-
-ThF / TRF
+## List of Faculties
+### ThF / TRF
 Faculté de Théologie et d’étude des religions
 Theologische und Religionswissenschaftliche Fakultät	
 Faculty of Theology and the Study of Religion	
 https://www.uzh.ch/en/explore/faculties/trf.html  ￼
-
-RWF
+### RWF
 Faculté de Droit
 Rechtswissenschaftliche Fakultät	
 Faculty of Law		
 https://www.uzh.ch/en/explore/faculties/rwf.html  ￼
-
-WWF
+### WWF
 Faculté des Sciences Économiques, Commerciales et Informatique	
 Wirtschaftswissenschaftliche Fakultät	
 Faculty of Business, Economics and Informatics	
 https://www.uzh.ch/en/explore/faculties/wwf.html  ￼
-
-MeF
+### MeF
 Faculté de Médecine	
 Medizinische Fakultät	
 Faculty of Medicine		
 https://www.uzh.ch/en/explore/faculties/mef.html  ￼
-
-VSF
+### VSF
 Vetsuisse (Médecine vétérinaire)	
 Vetsuisse-Fakultät	
 Vetsuisse Faculty		
 https://www.vet.uzh.ch/en.html  ￼
-
-PhF
+### PhF
 Faculté des Arts et des Sciences Sociales	
 Philosophische Fakultät	
 Faculty of Arts and Social Sciences
 https://www.uzh.ch/en/explore/faculties/phf.html  ￼
-
-MNF
+### MNF
 Faculté des Sciences
 Mathematisch-naturwissenschaftliche Fakultät	
 Faculty of Science
-https://www.uzh.ch/en/explore/faculties/mnf.html  ￼
+https://www.uzh.ch/en/explore/faculties/mnf.html  
+￼
 
 # PART 4: TECHNICAL STACK & ARCHITECTURE
 
