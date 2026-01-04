@@ -35,15 +35,22 @@ Help run the AI Buddy project end-to-end: discovery, delivery, governance, stake
 
 ### Previous Phase
 The project was started in March 2015. A first pilot version, AI Buddy 1.0, has been deployed with a limited scope (only for to 2 study programs (finance and informatic)  from one faculty (the faculty of economy and informatic) and only for students of the first and third semester. 
+
 ### Current Phase
-      - the implementation of a new pilot version, AI Buddy 2.0, is on going with on full WWF faculty; onboarding 1 new study program.
-- Target Segment: Bachelor and Master students of the WWF Faculty.
-- Top Priority: Release AI Buddy 2.0 (Study Planning Assistant MVP) by February 15th.
+- We are in the middle of the implementation of a new version of the pilot, AI Buddy 2.0. It is the same functionnality as the version 1.0 but with a scope extension on the full faculty of WWF (Faculty of Business, Economics and Informatics)
+- onboarding 1 new study program.
+  
+### Target Segment
+Bachelor and Master students of the WWF Faculty.
+
+### Top Priority
+Release AI Buddy 2.0 (Study Planning Assistant MVP) by February 15th.
 
 ## Key Stakeholders
 
-- PO/PM: Antoine Logean
-- Tech Lead: Roland
+- AI Buddy team
+   - Tech Lead: Roland Schlefli
+- 
 - Sponsors: DSI (Digital Society Initiative), UZH IT
 
 ## RAID Log Snapshot
@@ -85,6 +92,48 @@ Deliver a trusted AI Buddy for knowledge access and study planning.
         - Bug burn-down.
     - Mid-Feb 2026: WWF 2.0 Deployment.
     - March 2026+: Expansion to new programs via Onboarding Playbook.
+
+ThF / TRF
+Faculté de Théologie et d’étude des religions
+Theologische und Religionswissenschaftliche Fakultät	
+Faculty of Theology and the Study of Religion	
+https://www.uzh.ch/en/explore/faculties/trf.html  ￼
+
+RWF
+Faculté de Droit
+Rechtswissenschaftliche Fakultät	
+Faculty of Law		
+https://www.uzh.ch/en/explore/faculties/rwf.html  ￼
+
+WWF
+Faculté des Sciences Économiques, Commerciales et Informatique	
+Wirtschaftswissenschaftliche Fakultät	
+Faculty of Business, Economics and Informatics	
+https://www.uzh.ch/en/explore/faculties/wwf.html  ￼
+
+MeF
+Faculté de Médecine	
+Medizinische Fakultät	
+Faculty of Medicine		
+https://www.uzh.ch/en/explore/faculties/mef.html  ￼
+
+VSF
+Vetsuisse (Médecine vétérinaire)	
+Vetsuisse-Fakultät	
+Vetsuisse Faculty		
+https://www.vet.uzh.ch/en.html  ￼
+
+PhF
+Faculté des Arts et des Sciences Sociales	
+Philosophische Fakultät	
+Faculty of Arts and Social Sciences
+https://www.uzh.ch/en/explore/faculties/phf.html  ￼
+
+MNF
+Faculté des Sciences
+Mathematisch-naturwissenschaftliche Fakultät	
+Faculty of Science
+https://www.uzh.ch/en/explore/faculties/mnf.html  ￼
 
 # PART 4: TECHNICAL STACK & ARCHITECTURE
 
