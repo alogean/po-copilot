@@ -3,7 +3,7 @@
 MASTER CONTEXT: UZH AI BUDDY PROJECT
 - Project: AI Buddy (University of Zurich)
 - Role: Product Owner & Project Manager Support
-- Last Updated: December 30, 2025
+- Last Updated: January 6, 2026
 
 # PART 1: SYSTEM INSTRUCTIONS
 
@@ -73,39 +73,6 @@ Bachelor and Master students of the WWF Faculty.
 ### Top Priority
 Release AI Buddy 2.0 (Study Planning Assistant MVP) by February 15th.
 
-## Key Stakeholders
-
-### AI Buddy team
-   - Tech Lead: Roland & Michael
-   - WWF content Lead: Johanna
-   - Oriane: Student engagement
-   - Michelle: User testing, Studivers alignment
-### Sponsors
-- DSI (Digital Society Initiative)
-- UZH IT
-### Stearing board
-### Faculties
-#### ThF / TRF
-- Faculty of Theology and the Study of Religion
-- https://www.uzh.ch/en/explore/faculties/trf.html  ￼
-#### RWF
-- Faculty of Law		
-- https://www.uzh.ch/en/explore/faculties/rwf.html  ￼
-#### WWF
-- Faculty of Business, Economics and Informatics	
-- https://www.uzh.ch/en/explore/faculties/wwf.html  ￼
-#### MeF
-- Faculty of Medicine		
-- https://www.uzh.ch/en/explore/faculties/mef.html  ￼
-#### VSF
-- Vetsuisse Faculty		
-- https://www.vet.uzh.ch/en.html  ￼
-#### PhF
-- Faculty of Arts and Social Sciences
-- https://www.uzh.ch/en/explore/faculties/phf.html  ￼
-#### MNF
-- Faculty of Science
-- https://www.uzh.ch/en/explore/faculties/mnf.html  
 
 ## RAID Log Snapshot
 | Type | Description |
@@ -142,8 +109,60 @@ Deliver a trusted AI Buddy for knowledge access and study planning.
         - Bug burn-down.
     - Mid-Feb 2026: WWF 2.0 Deployment.
     - March 2026+: Expansion to new programs via Onboarding Playbook.
-## List of Faculties
 
+## Key Stakeholders
+
+### AI Buddy development team
+   - Tech Lead: Roland & Michael
+   - WWF content Lead: Johanna
+   - Oriane: Student engagement
+   - Michelle: User testing, Studivers alignment
+### Sponsors
+- DSI (Digital Society Initiative)
+- UZH Digital charter
+### Stearing board
+- name: Prof. Dr. Abraham Bernstein
+  email: bernstein@ifi.uzh.ch
+  website: https://www.ifi.uzh.ch/en/ddis/people/bernstein.html
+  function: Director of Digital Society Initiative (DSI) / DSI Direktor
+  
+- name: Dr. Alexandra Jansky,
+  email:
+  website: https://www.le.uzh.ch/en/about-us/Innovation-and-Digital-Education/alexandrajansky.html
+  function: Team Leader of the Educational Development Department / Teamleiterin der Abteilung Lehrentwicklung
+  
+- name: Prof. Dr. Titus Mangham-Neupert
+  email: 
+  website: 
+  function: Director of DSI / DSI Direktor
+  
+- name: Prof. Dr. Claudia Witt,
+email:
+webstie: 
+function: Director of DSI / DSI Direktorin
+
+### Faculties
+#### ThF / TRF
+- Faculty of Theology and the Study of Religion
+- https://www.uzh.ch/en/explore/faculties/trf.html  ￼
+#### RWF
+- Faculty of Law		
+- https://www.uzh.ch/en/explore/faculties/rwf.html  ￼
+#### WWF
+- Faculty of Business, Economics and Informatics	
+- https://www.uzh.ch/en/explore/faculties/wwf.html  ￼
+#### MeF
+- Faculty of Medicine		
+- https://www.uzh.ch/en/explore/faculties/mef.html  ￼
+#### VSF
+- Vetsuisse Faculty		
+- https://www.vet.uzh.ch/en.html  ￼
+#### PhF
+- Faculty of Arts and Social Sciences
+- https://www.uzh.ch/en/explore/faculties/phf.html  ￼
+#### MNF
+- Faculty of Science
+- https://www.uzh.ch/en/explore/faculties/mnf.html  
 ￼
 
 # PART 4: TECHNICAL STACK & ARCHITECTURE
