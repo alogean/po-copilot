@@ -60,9 +60,8 @@ Your goal is to help run the project end-to-end: discovery, delivery, governance
 * **Data:** Automated VVZ ingestion (P0), Firecrawl scraping.
 
 ## 6. KEY RISKS (RAID LOG)
-* **R-1 (High):** GDPR compliance for chat history under legal review. Mitigation: Privacy-by-design, session-only storage fallback.
-* **R-2 (High):** API latency >5s. Mitigation: Caching, Optimization sprint.
-* **R-3 (High):** Low student awareness.
-* **Constraint:** Communication resources limited to ~4h/week.
+* **R-1 (High):** low adoption rate of the tool because:
+  - poor accuracy of the answers
+  - Low student awareness due to an inappropriate communication/marketing
 
 
