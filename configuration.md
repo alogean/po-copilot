@@ -124,18 +124,18 @@ Work happens in an agile manner in sprints (3 weeks) with a sprint backlog based
       - (?) Enhance filtering by time slots like "Monday Morning". (Dependency: Structured schedule data).
 
 (F_2) Study Regulation & Process Guidance
-      - Ingest key study regulations (PDFs/Text) for full WWF faculty . Implement RAG for Q&A.
-      - Implement an automated ingestion pipeline for selected UZH websites to enable RAG-based Q&A.
-          - Include capability for periodic data refresh.
-          - Targeted content includes:
-            - FAQs,
-            - process descriptions (module booking, enrollment),
-            - IT info,
-            - general exam periods/rules (APN_04),
-            - key health/support service descriptions (IS_07),
-            - and potentially basic campus building info (IS_01).
-      - Provide curated links to official UZH pages for critical deadlines and procedures.
-      - Outdated information will be included but will be communicated back to the source (we are not responsible for the content)
+      * Ingest key study regulations (PDFs/Text) for full WWF faculty . Implement RAG for Q&A.
+      * Implement an automated ingestion pipeline for selected UZH websites to enable RAG-based Q&A.
+          ** Include capability for periodic data refresh.
+          ** Targeted content includes:
+            *** FAQs,
+            *** process descriptions (module booking, enrollment),
+            *** IT info,
+            *** general exam periods/rules (APN_04),
+            *** key health/support service descriptions (IS_07),
+            *** and potentially basic campus building info (IS_01).
+      * Provide curated links to official UZH pages for critical deadlines and procedures.
+      * Outdated information will be included but will be communicated back to the source (we are not responsible for the content)
 
 (F_3) University Service & Resource Locator
         - Provide information, direct links, and RAG-based Q&A (using scraped web data, see 5.2) for key UZH resources, including:
