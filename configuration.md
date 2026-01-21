@@ -82,7 +82,7 @@ Full WWF faculty:
 - DF Banking and Finance 
 - DBA Business Administration 
 - ECON: Economics 
-- FI: Informatics
+- IFI: Informatics
 
 For Bachelor and Master students 
  
@@ -218,17 +218,31 @@ Mitigation:
 ## ToDo
 
 - find slots for the steering board meeting for march/juin/septembre/decembre
+- envoyer les invitations pour le hackday OLAT-AI Buddy Day
+- envoyer les infos aux 3 eme groupe de testeurs du SIB
+- envoyer des invitations aux SIB pour un feedback
+- faire la liste des facultés qui ont posé leur candidature
+- analyser le message de Gile et faire les changements demandé
+- faire un inventaire de tous les autres
  
 ### Communication
 
-1) new year message to all supporter of the project
+1) new year message to all supporter of the project in German
     - This should short and positiv, showing our vision and will to help the student
     - The message give them of very short summary of what has been accomplished and what we plan to do this year
 
-2) message to the stearing board
+2) message to the stearing board in German
    - as the new year is starting send a recapitulation message to the stearing board
    - the message gives them of very short summary of what has been accomplished and what we plan to do this year
    - the message also express my which to have Michelle Stärke part of the steering board.
-   - I should also remind the 
-- 
+   - I should also remind the steering board about our meeting of next week where we will select a study program from a new facutly
+     
 ### Release communication plan
+    
+    - draft a message to the WWF Dekanat in German. Le message doit contenir les éléments suivants:
+        1) présenter le release actuel, le scope 
+        2) demander comment doit on communiquer avec les instituts (DF Banking and Finance, DBA Business Administration, ECON: Economics et IFI: Informatics)
+        3) demander la possibilité de metre un lien directement sur le site web a côté du bouton de recherche sur le site web (le mieux serait d'ajouter une icon)
+        4) les informer de notre désir de passer dans tous les courts en début de semestre et de présenter en 3 minutes ce qu'est AI Buddy, comment ils peuvent y accéder et quelle est sa fonction
+    
+    - draft un message que nous envoyons à tous les instituts (DF Banking and Finance, DBA Business Administration, ECON: Economics et IFI: Informatics). Ce message présente brievement AI buddy et ses fonctions
