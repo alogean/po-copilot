@@ -48,7 +48,7 @@
     - [6.2.1 New Year Message to Supporters](#621-new-year-message-to-supporters)
     - [6.2.2 Steering Board Message](#622-steering-board-message)
   - [6.3 Release Communication Plan](#63-release-communication-plan)
-
+- [7. Varia](#7 varia)
 ---
 
 ## 1. System Instructions
@@ -399,10 +399,10 @@ Wir freuen uns, Ihnen mitteilen zu können, dass AI Buddy 2.0 am 15. Februar 202
  
 Aktueller Release-Umfang:
 AI Buddy 2.0 unterstützt neu alle Bachelor- und Master-Studiengänge der WWF-Fakultät:
-1. Banking and Finance (DF)
-2. Business Administration (DBA)
-3. Economics (ECON)
-4. Informatics (IFI)
+- Banking and Finance (DF)
+-  Business Administration (DBA)
+- Economics (ECON)
+- Informatics (IFI)
 
 Die Kernfunktionen entsprechen der vorherigen Version und umfassen:
 1. Kurssuche und -informationen basierend auf dem VVZ
@@ -410,12 +410,12 @@ Die Kernfunktionen entsprechen der vorherigen Version und umfassen:
 3. Orientierungshilfe zu UZH-Dienstleistungen und Ressourcen
 
 Unsere Anliegen:
-1. Kommunikation mit den Instituten: Wie empfehlen Sie, die Institute (DF, DBA, ECON, IFI) über AI Buddy zu informieren? Gibt es bestehende Kanäle oder Ansprechpersonen, die wir nutzen sollten?
-2. Distributionskanal und Sichtbarkeit auf der Website: Wir würden gerne einen direkten Link zu AI Buddy auf den WWF-Websites (Fakultät und Institute) platzieren, idealerweise neben der Suchfunktion. Dies würde die Auffindbarkeit für Studierende erheblich verbessern. Sind Sie damit einverstanden?
-3. Präsentationen zu Semesterbeginn: Wir möchten AI Buddy zu Beginn des Frühjahrssemesters in allen Vorlesungen kurz vorstellen (ca. 3 Minuten). Die Präsentation würde folgende Punkte abdecken:
-* Was ist AI Buddy?
-* Wie greift man darauf zu?
-* Welche Funktionen bietet es?
+* Kommunikation mit den Instituten: Wie empfehlen Sie, die Institute (DF, DBA, ECON, IFI) über AI Buddy zu informieren? Gibt es bestehende Kanäle oder Ansprechpersonen, die wir nutzen sollten?
+*  Distributionskanal und Sichtbarkeit auf der Website: Wir würden gerne einen direkten Link zu AI Buddy auf den WWF-Websites (Fakultät und Institute) platzieren, idealerweise neben der Suchfunktion. Dies würde die Auffindbarkeit für Studierende erheblich verbessern. Sind Sie damit einverstanden?
+* Präsentationen zu Semesterbeginn: Wir möchten AI Buddy zu Beginn des Frühjahrssemesters in allen Vorlesungen kurz vorstellen (ca. 3 Minuten). Die Präsentation würde folgende Punkte abdecken:
+  * Was ist AI Buddy?
+  * Wie greift man darauf zu?
+  * Welche Funktionen bietet es?
 
 Für Rückfragen oder ein kurzes Gespräch stehen wir Ihnen gerne zur Verfügung.
  
