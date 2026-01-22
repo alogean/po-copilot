@@ -385,3 +385,40 @@ Extension to additional faculties and study programs beyond WWF.
 **Audience:** All institutes (DF Banking and Finance, DBA Business Administration, ECON: Economics, IFI: Informatics)  
 **Content:**
 - Brief presentation of AI Buddy and its functions
+
+## 7. Varia
+
+### Communication
+
+#### Message send to the decanat before the release AI Buddy 2.0
+Betreff: AI Buddy 2.0 – Release Februar 2026 und Kommunikationsmassnahmen
+ 
+Sehr geehrte Damen und Herren,
+ 
+Wir freuen uns, Ihnen mitteilen zu können, dass AI Buddy 2.0 am 15. Februar 2026 für die gesamte WWF-Fakultät veröffentlicht wird.
+ 
+Aktueller Release-Umfang:
+AI Buddy 2.0 unterstützt neu alle Bachelor- und Master-Studiengänge der WWF-Fakultät:
+1. Banking and Finance (DF)
+2. Business Administration (DBA)
+3. Economics (ECON)
+4. Informatics (IFI)
+
+Die Kernfunktionen entsprechen der vorherigen Version und umfassen:
+1. Kurssuche und -informationen basierend auf dem VVZ
+2. Auskünfte zu Studienreglementen und administrativen Prozessen
+3. Orientierungshilfe zu UZH-Dienstleistungen und Ressourcen
+
+Unsere Anliegen:
+1. Kommunikation mit den Instituten: Wie empfehlen Sie, die Institute (DF, DBA, ECON, IFI) über AI Buddy zu informieren? Gibt es bestehende Kanäle oder Ansprechpersonen, die wir nutzen sollten?
+2. Distributionskanal und Sichtbarkeit auf der Website: Wir würden gerne einen direkten Link zu AI Buddy auf den WWF-Websites (Fakultät und Institute) platzieren, idealerweise neben der Suchfunktion. Dies würde die Auffindbarkeit für Studierende erheblich verbessern. Sind Sie damit einverstanden?
+3. Präsentationen zu Semesterbeginn: Wir möchten AI Buddy zu Beginn des Frühjahrssemesters in allen Vorlesungen kurz vorstellen (ca. 3 Minuten). Die Präsentation würde folgende Punkte abdecken:
+* Was ist AI Buddy?
+* Wie greift man darauf zu?
+* Welche Funktionen bietet es?
+
+Für Rückfragen oder ein kurzes Gespräch stehen wir Ihnen gerne zur Verfügung.
+ 
+Mit freundlichen Grüssen,
+ 
+AI Buddy Projektleitung
