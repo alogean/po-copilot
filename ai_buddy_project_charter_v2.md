@@ -289,17 +289,7 @@ A survey of 926 UZH students conducted in March 2024 provided foundational evide
 
 ### 5.2 Faculty Contacts for Expansion
 
-| Code | Faculty | Expansion Priority | Contacts |
-|------|---------|-------------------|----------|
-| WWF | Business, Economics & Informatics | **Current (2.0)** | Johanna Braun (Content Lead) |
-| PhF | Arts and Social Sciences | Post-2.0 | AL, MS, JB, RS |
-| MNF | Science | Post-2.0 | TBD |
-| RWF | Law | Post-2.0 | TBD |
-| MeF | Medicine | Post-2.0 | TBD |
-| ThF/TRF | Theology and Study of Religion | Post-2.0 | TBD |
-| VSF | Vetsuisse Faculty | Post-2.0 | TBD |
-
-| Faculty | Fakultät | Dekanat | Application | Institute | Studienprogramm | Ansprechperson | Anzahl |
+| Code | Faculty | Dekanat | Application | Institute | Studienprogramm | Ansprechperson | Anzahl |
 |--------|----------|---------|-------------|-----------|----------------|---------------|--------|
 | WWF | Wirtschaftswissenschaftliche Fakultät | Harald C. Gall | yes |  |  |  |  |
 | VSF | Vetsuisse-Fakultät | Thomas Lutz | yes |  | Bachelor/Master Veterinärmedizin | Rutz Stefanie | 450 |
